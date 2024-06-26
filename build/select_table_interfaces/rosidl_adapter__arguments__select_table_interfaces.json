@@ -1,0 +1,6 @@
+{
+  "package_name": "select_table_interfaces",
+  "non_idl_tuples": [
+    "/home/robot/ros_ws/src/select_table_interfaces:srv/TableSelect.srv"
+  ]
+}

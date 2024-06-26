@@ -1,0 +1,25 @@
+{
+  "package_name": "select_table_interfaces",
+  "output_dir": "/home/robot/ros_ws/build/select_table_interfaces/rosidl_typesupport_c/select_table_interfaces",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_c/resource",
+  "idl_tuples": [
+    "/home/robot/ros_ws/build/select_table_interfaces/rosidl_adapter/select_table_interfaces:srv/TableSelect.idl"
+  ],
+  "ros_interface_dependencies": [
+    "std_srvs:/opt/ros/humble/share/std_srvs/srv/Empty.idl",
+    "std_srvs:/opt/ros/humble/share/std_srvs/srv/SetBool.idl",
+    "std_srvs:/opt/ros/humble/share/std_srvs/srv/Trigger.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_c/rosidl_typesupport_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/action__type_support.c.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/idl__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/msg__type_support.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_c/resource/srv__type_support.cpp.em",
+    "/home/robot/ros_ws/build/select_table_interfaces/rosidl_adapter/select_table_interfaces/srv/TableSelect.idl",
+    "/opt/ros/humble/share/std_srvs/srv/Empty.idl",
+    "/opt/ros/humble/share/std_srvs/srv/SetBool.idl",
+    "/opt/ros/humble/share/std_srvs/srv/Trigger.idl"
+  ]
+}

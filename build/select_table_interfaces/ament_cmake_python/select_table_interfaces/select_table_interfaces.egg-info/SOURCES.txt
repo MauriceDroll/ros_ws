@@ -1,0 +1,8 @@
+setup.py
+select_table_interfaces/__init__.py
+select_table_interfaces.egg-info/PKG-INFO
+select_table_interfaces.egg-info/SOURCES.txt
+select_table_interfaces.egg-info/dependency_links.txt
+select_table_interfaces.egg-info/top_level.txt
+select_table_interfaces/srv/__init__.py
+select_table_interfaces/srv/_table_select.py

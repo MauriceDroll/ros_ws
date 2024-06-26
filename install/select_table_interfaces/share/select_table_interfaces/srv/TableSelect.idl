@@ -1,0 +1,15 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from select_table_interfaces/srv/TableSelect.srv
+// generated code does not contain a copyright notice
+
+
+module select_table_interfaces {
+  module srv {
+    struct TableSelect_Request {
+      boolean request;
+    };
+    struct TableSelect_Response {
+      int16 table_id;
+    };
+  };
+};
